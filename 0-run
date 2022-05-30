@@ -1,1 +1,2 @@
-new file
+#!/bin/bash
+python $PYFILE
