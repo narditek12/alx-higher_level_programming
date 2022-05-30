@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-github
+Hello world first Python Programming with ALx
